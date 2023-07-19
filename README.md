@@ -1,0 +1,2 @@
+# SimplifiedSeedClassification
+根据光谱判断水稻种子是否能发芽
